@@ -1,7 +1,9 @@
 # Data Science Portfolio
 
 
-![Illustration inspired by the quote](https://github.com/dchlseo/Data-Science-Portfolio/assets/70427747/e02868a2-5dcc-4302-8850-e31b31a56773)
+<div align="center">
+    <img src="https://github.com/dchlseo/Data-Science-Portfolio/assets/70427747/bbef347b-49bb-4a74-82aa-e18a3ad2049f" alt="Illustration inspired by the quote_600">
+</div>
 
 
 <div align="center">
