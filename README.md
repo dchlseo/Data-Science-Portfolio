@@ -12,6 +12,8 @@ This repository is a collection of personal data science projects that I have wo
 
 Each project directory contains details about the project, including datasets used, methodologies, code, and findings.
 
+Also, the notebook files are written using both Korean and English.
+
 ## Project Categories
 
 ### Exploratory Data Analysis (EDA)
@@ -27,6 +29,7 @@ Each project directory contains details about the project, including datasets us
 
 ## Technologies Used
 - Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
+- Jupyter Notebook
 
 ## About Me
 - **Name**: DC Seo
