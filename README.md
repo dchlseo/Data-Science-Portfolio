@@ -41,6 +41,5 @@ Also, the notebook files are written using both Korean and English.
 ## About Me
 - **Name**: DC Seo
 - **Website**: [Personal Website](https://dchlseo.github.io/)
-
 - **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/dchlseo/)
 
