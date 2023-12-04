@@ -6,7 +6,7 @@
 
 <p align="right">Sherlock Holmes, <i>A Study in Scarlett</i> (1887)</p>
 
-Data has been an integral ingredient in formulating my viewpoint on the world. It not only authenticated theories, but enriched my perspective on the world by suggesting alternative viewpoints and possibilities that may not have occurred to me had I only been engulfed in my own intuition.   
+Data has been an integral ingredient in formulating my viewpoint on the world. It not only authenticates theories but also enriches my perspective by suggesting alternative viewpoints and possibilities. These are insights that might not have occurred to me had I relied solely on my intuition. 
 
 This repository is a collection of personal data science projects that I have worked on or am currently working on. It includes a wide range of applications and techniques in data science, from exploratory data analysis (EDA) to advanced machine learning models.
 
@@ -34,5 +34,3 @@ Each project directory contains details about the project, including datasets us
 
 - **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/dchlseo/)
 
-## Contributing
-While this portfolio is primarily a personal showcase, suggestions and discussions on the projects are welcome. Feel free to fork the repository and submit pull requests.
