@@ -15,9 +15,7 @@ Each project directory contains details about the project, including datasets us
 ## Project Categories
 
 ### Exploratory Data Analysis (EDA)
-- **Google Data Analytics Capstone Project**: [Fitbit Fitness Tracker Case Study](Data-Science-Portfolio/Fitbit-Fitness-Tracker-Case-Study)
-
-Fitbit Fitness Tracker Case Study
+- **Google Data Analytics Capstone Project**: [Fitbit Fitness Tracker Case Study](./Fitbit-Fitness-Tracker-Case-Study)
 
 <!-- This is a comment and won't appear in the rendered output. 
 ### Machine Learning
