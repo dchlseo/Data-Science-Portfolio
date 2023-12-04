@@ -1,5 +1,9 @@
 # Data Science Portfolio
 
+
+![Illustration inspired by the quote](https://github.com/dchlseo/Data-Science-Portfolio/assets/70427747/e02868a2-5dcc-4302-8850-e31b31a56773)
+
+
 <div align="center">
     <i><strong>"It is a capital mistake to theorize before one has data.”</strong></i>
 </div>
