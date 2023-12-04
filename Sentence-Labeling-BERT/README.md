@@ -1,4 +1,4 @@
-# Documentation for Ethics Justice Data Analysis Project
+# Ethics Justice Data Analysis Project
 
 ## Project Overview
 
