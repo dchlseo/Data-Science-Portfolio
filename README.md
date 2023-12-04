@@ -24,6 +24,7 @@ Also, the notebook files are written using both Korean and English.
 
 ### Exploratory Data Analysis (EDA)
 - **Google Data Analytics Capstone Project**: [Fitbit Fitness Tracker Case Study](./Fitbit-Fitness-Tracker-Case-Study)
+- **World Terrorism Data Analysis**: [World Terrorism EDA](./World-Terrorism-EDA)
 
 <!-- This is a comment and won't appear in the rendered output. 
 ### Machine Learning
