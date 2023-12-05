@@ -16,14 +16,14 @@ Data has been an integral ingredient in formulating my viewpoint on the world. I
 
 This repository is a collection of personal data science projects that I have worked on or am currently working on. It includes a wide range of applications and techniques in data science, from exploratory data analysis (EDA) to advanced machine learning models.
 
-Each project directory contains details about the project, including datasets used, methodologies, code, and findings.
+Each project directory contains details about the project, including datasets used, methodologies, code, and findings. There are projects that are archived in separate repositories. Such projects are not listed here.
 
 Also, the notebook files are written using both Korean and English.
 
 ## Project Categories
 
 ### Exploratory Data Analysis (EDA)
-- **Google Data Analytics Capstone Project**: [Fitbit Fitness Tracker Case Study](./Fitbit-Fitness-Tracker-Case-Study)
+- **Google Data Analytics Capstone Project (Korean)**: [Fitbit Fitness Tracker Case Study](./Fitbit-Fitness-Tracker-Case-Study)
 - **World Terrorism Data Analysis**: [World Terrorism EDA](./World-Terrorism-EDA)
 - **Sentence Labeling Using Pre-trained Transformer Model (DistilBERT)**: [Sentence-Labeling-BERT](./Sentence-Labeling-BERT)
 
