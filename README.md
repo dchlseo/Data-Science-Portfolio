@@ -16,9 +16,9 @@ Data has been an integral ingredient in formulating my viewpoint on the world. I
 
 This repository is a collection of personal data science projects that I have worked on or am currently working on. It includes a wide range of applications and techniques in data science, from exploratory data analysis (EDA) to advanced machine learning models.
 
-Each project directory contains details about the project, including datasets used, methodologies, code, and findings. There are projects that are archived in separate repositories. Such projects are not listed here.
+Each project directory contains details about the project, including datasets used, methodologies, code, and findings. There are projects that are archived in separate repositories. Links to such projects are provided. 
 
-Also, the notebook files are written using both Korean and English.
+Also, the notebook files are written using either Korean or English (or both, when I can make the additional effort).
 
 ## Project Categories
 
@@ -27,13 +27,11 @@ Also, the notebook files are written using both Korean and English.
 - **World Terrorism Data Analysis**: [World Terrorism EDA](./World-Terrorism-EDA)
 - **Sentence Labeling Using Pre-trained Transformer Model (DistilBERT)**: [Sentence-Labeling-BERT](./Sentence-Labeling-BERT)
 
-<!-- This is a comment and won't appear in the rendered output. 
 ### Machine Learning
-- **Project 1**: [Project Title Here]
-- **Project 2**: [Project Title Here]
-- ... and more.
+- **Flight Delay Predictor (separate repository)**: [Flight Delay Predictor](https://github.com/dchlseo/flight-delay-predictor)
 
--->
+
+
 
 ## Technologies Used
 - Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
