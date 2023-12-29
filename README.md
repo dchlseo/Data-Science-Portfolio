@@ -27,9 +27,9 @@ Also, the notebook files are written using either Korean or English (or both, wh
 - **World Terrorism Data Analysis**: [World Terrorism EDA](./World-Terrorism-EDA)
 - **Sentence Labeling Using Pre-trained Transformer Model (DistilBERT)**: [Sentence-Labeling-BERT](./Sentence-Labeling-BERT)
 
-### Machine Learning
+### Machine Learning/Deep Learning
 - **Flight Delay Predictor (separate repository)**: [Flight Delay Predictor](https://github.com/dchlseo/flight-delay-predictor)
-
+- **YOLO Detection Using Simple Moving Average (separate repository)**: [YOLO Moving Average](https://github.com/dchlseo/yolo-moving-average)
 
 
 
