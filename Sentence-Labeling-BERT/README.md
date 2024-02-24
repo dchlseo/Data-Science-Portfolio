@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project focuses on analyzing the 'Ethics Justice' dataset using advanced natural language processing techniques. The primary objective is to classify scenarios based on ethical considerations using a pre-trained DistilBERT model. The project involves data preparation, model training, validation, and evaluation phases, with an emphasis on understanding the nuances of ethical judgments in textual data.
+This project focuses on analyzing the 'Ethics Justice' ([data source](https://github.com/hendrycks/ethics)) dataset using advanced natural language processing techniques. The primary objective is to classify scenarios based on ethical considerations using a pre-trained DistilBERT model. The project involves data preparation, model training, validation, and evaluation phases, with an emphasis on understanding the nuances of ethical judgments in textual data.
 
 ## Code Structure
 
@@ -11,6 +11,16 @@ This project focuses on analyzing the 'Ethics Justice' dataset using advanced na
 - **PyTorch and Transformers**: Utilizes PyTorch for deep learning and Hugging Face's Transformers for pre-trained models.
 - **Data Handling**: Employs Pandas and NumPy for data manipulation.
 - **Data Loading**: Reads the training, testing, and hard testing datasets from CSV files.
+
+Data Example
+
+<img width="899" alt="image" src="https://github.com/dchlseo/Data-Science-Portfolio/assets/70427747/55809d86-67b1-4fd6-80e6-050cc21198d8">
+
+Data Labels
+
+<img width="594" alt="image" src="https://github.com/dchlseo/Data-Science-Portfolio/assets/70427747/c3ae6eb5-85c9-4510-9ac4-35b0945dc3f1">
+
+
 
 ### Preparing Data
 
