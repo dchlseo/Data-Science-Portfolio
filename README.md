@@ -26,6 +26,7 @@ Also, the notebook files are written using either Korean or English (or both, wh
 - **Google Data Analytics Capstone Project (Korean)**: [Fitbit Fitness Tracker Case Study](./Fitbit-Fitness-Tracker-Case-Study)
 - **World Terrorism Data Analysis**: [World Terrorism EDA](./World-Terrorism-EDA)
 - **Sentence Labeling Using Pre-trained Transformer Model (DistilBERT)**: [Sentence-Labeling-BERT](./Sentence-Labeling-BERT)
+- **Seoul Oil Station Price Comparison**: [Oil-Station-Price-Comparison](./Oil-Station-Price-Comparison)
 
 ### Machine Learning/Deep Learning
 - **Flight Delay Predictor (separate repository)**: [Flight Delay Predictor](https://github.com/dchlseo/flight-delay-predictor)
